@@ -1,0 +1,9 @@
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe.config
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.pdb
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.csprojResolveAssemblyReference.cache
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Hola Mundo\Hola Mundo\obj\Debug\Hola_Mundo.Form1.resources
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Hola Mundo\Hola Mundo\obj\Debug\Hola_Mundo.Properties.Resources.resources
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.csproj.GenerateResource.Cache
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.exe
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.pdb
